@@ -1,0 +1,19 @@
+CampaignID,CampaignName,Channel,CampaignType,Objective,StartDateKey,EndDateKey,Budget
+CMP0001,Distributor - Distributor Push #1,Distributor,Distributor Push,LeadGen,20240414,20240509,209742.0
+CMP0002,Digital - Search Ads #2,Digital,Search Ads,Conversion,20240725,20240905,114452.0
+CMP0003,Bank - Co-branded Offer #3,Bank,Co-branded Offer,LeadGen,20240218,20240310,203143.0
+CMP0004,Distributor - Distributor Push #4,Distributor,Distributor Push,Conversion,20240420,20240614,212006.0
+CMP0005,Digital - Search Ads #5,Digital,Search Ads,Conversion,20240828,20241010,102994.0
+CMP0006,Email - Nurture Email #6,Email,Nurture Email,LeadGen,20240810,20240913,225541.0
+CMP0007,Distributor - Distributor Push #7,Distributor,Distributor Push,LeadGen,20240818,20240914,79198.0
+CMP0008,Distributor - Distributor Push #8,Distributor,Distributor Push,Conversion,20241016,20241203,67493.0
+CMP0009,Digital - Display Ads #9,Digital,Display Ads,Conversion,20240823,20241016,173798.0
+CMP0010,Digital - Social Ads #10,Digital,Social Ads,Conversion,20240703,20240912,162822.0
+CMP0011,Digital - Search Ads #11,Digital,Search Ads,LeadGen,20240723,20240901,43540.0
+CMP0012,Branch - Branch Event #12,Branch,Branch Event,LeadGen,20240924,20241017,209856.0
+CMP0013,Distributor - Distributor Push #13,Distributor,Distributor Push,Conversion,20240229,20240503,57977.0
+CMP0014,Bank - Bank RMs #14,Bank,Bank RMs,LeadGen,20240513,20240704,203175.0
+CMP0015,Digital - Search Ads #15,Digital,Search Ads,LeadGen,20240321,20240516,11766.0
+CMP0016,Digital - Display Ads #16,Digital,Display Ads,Conversion,20240522,20240610,201242.0
+CMP0017,Distributor - Distributor Push #17,Distributor,Distributor Push,LeadGen,20240905,20241008,198861.0
+CMP0018,Digital - Display Ads #18,Digital,Display Ads,Conversion,20240121,20240321,197287.0

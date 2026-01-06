@@ -16,7 +16,22 @@ Below are examples of professional projects I’ve worked on:
   -	Integrated data into marketing dashboards, enhancing efficiency significantly.
 
 ## 📊 Samples Included
-1. **Plants Co Perfomance Dashboard**
+**1. Marketing Dashboard**
+   - An interactive dashboard providing a unified view of lead generation, conversion performance, and investment metrics across channels, campaigns, and fund categories.
+
+  *Highlights:*
+
+  - Executive KPIs for leads, conversions, purchases, redemptions, and net flows
+
+  - Channel and campaign-wise lead and conversion analysis
+
+  - Investment and scheme performance with quarterly trends
+
+  *Purpose:*
+  - Supports data-driven decision-making by enabling quick performance insights and trend analysis for marketing, sales, and investment teams.
+
+
+**2. Plants Co Perfomance Dashboard**
    - Uses a mock dataset to showcase trends, product performance tracking, and revenue KPIs.
 
 Some of the examples of Tableau dashboards are published here: https://public.tableau.com/app/profile/mohammed.usama.jasnak/vizzes

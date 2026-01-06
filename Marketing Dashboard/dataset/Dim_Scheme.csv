@@ -1,0 +1,13 @@
+SchemeID,SchemeName,FundCategory,RiskLevel
+SCH0001,Bluechip Equity Fund,Equity,High
+SCH0002,Large & Midcap Fund,Debt,Low
+SCH0003,Small Cap Growth Fund,Hybrid,Medium
+SCH0004,Balanced Advantage Fund,ELSS,High
+SCH0005,Aggressive Hybrid Fund,Equity,High
+SCH0006,Corporate Bond Fund,Debt,Low
+SCH0007,Short Duration Fund,Hybrid,Medium
+SCH0008,Liquid Fund,ELSS,High
+SCH0009,ELSS Tax Saver Fund,Equity,High
+SCH0010,Multi Asset Allocation Fund,Debt,Low
+SCH0011,Index Nifty 50 Fund,Hybrid,Medium
+SCH0012,Dynamic Bond Fund,ELSS,High
